@@ -1,4 +1,4 @@
 # MegameterConsole
 A Lua-enabled .NET Server using NLua
 
-[preview](https://ibb.co/N1db6DL)
+[preview](https://i.ibb.co/yhc7nv8/image.png)
